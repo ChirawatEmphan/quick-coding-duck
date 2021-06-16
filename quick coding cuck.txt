@@ -1,0 +1,46 @@
+{
+  "line": {
+    "quickReply": {
+      "items": [
+        {
+          "type": "action",
+          "action": {
+            "type": "message",
+            "text": "จอง",
+            "label": "จองสถานที่"
+          },
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Wat_Khao_Cha_Ngog_Nakhon_Nayok_08.jpg"
+        },
+        {
+          "action": {
+            "label": "คำทำนาย",
+            "type": "message",
+            "text": "คำทำนาย"
+          },
+          "imageUrl": "https://horoscope.thaiza.com/image/seamsi_h1.jpg",
+          "type": "action"
+        },
+        {
+          "action": {
+            "label": "ประวัติ",
+            "text": "ประวัติ",
+            "type": "message"
+          },
+          "imageUrl": "https://icons-for-free.com/iconfiles/png/512/document+form+list+survey+tracklist+icon-1320167912093087410.png",
+          "type": "action"
+        },
+        {
+          "type": "action",
+          "action": {
+            "label": "ติดต่อสอบถาม",
+            "text": "ติดต่อสอบถาม",
+            "type": "message"
+          },
+          "imageUrl": "https://icons-for-free.com/iconfiles/png/512/contact+us+contacts+phone+support+telephone+icon-1320166528627385734.png"
+        }
+      ]
+    },
+    "type": "text",
+    "text": "ติดต่อเรื่องไรครับ"
+  }
+}
